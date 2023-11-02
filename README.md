@@ -17,9 +17,11 @@ Asegúrate de tener instaladas las siguientes dependencias para ejecutar el prog
 
 ## Explicacion de las carpetas y archivos
 - CHECKED_PROXY se guardan las proxies ya checkeadas.
+- CHECKEDHTTP.TXT/CHECKEDSOCKS4.TXT/CHECKEDSOCKS5.TXT se guardan las proxies ya checkeadas.
 - doctxt se guarda la extraccion sin checkear de las proxies.
+- HTTP.TXT/SOCKS4.TXT/SOCKS5.TXT se guarda la extraccion sin checkear de las proxies
 - user-agents.txt esto NO se debe borrar ya que es necesario para el funcionamiento.
-- 
+- proxxxy.py el ejecutable.
 
 ## Instalación
 
