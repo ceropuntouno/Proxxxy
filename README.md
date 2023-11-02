@@ -20,9 +20,11 @@ Asegúrate de tener instaladas las siguientes dependencias para ejecutar el prog
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias necesarias utilizando el administrador de paquetes de Python, pip.
 
-
-   git clone https://github.com/ceropuntouno/Proxxxy.git
-   pip install -r requirements.txt
+```shell script
+git clone https://github.com/ceropuntouno/Proxxxy.git
+cd Proxxxy
+pip install -r requirements.txt
+```
    
 ## Uso
 
