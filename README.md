@@ -15,14 +15,22 @@ Asegúrate de tener instaladas las siguientes dependencias para ejecutar el prog
 - Python 3.6 o superior
 - Instalar los requirements necesarios.
 
+## Explicacion de las carpetas y archivos
+- CHECKED_PROXY se guardan las proxies ya checkeadas.
+- doctxt se guarda la extraccion sin checkear de las proxies.
+- user-agents.txt esto NO se debe borrar ya que es necesario para el funcionamiento.
+- 
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias necesarias utilizando el administrador de paquetes de Python, pip.
 
-```shell script
+```
 git clone https://github.com/ceropuntouno/Proxxxy.git
+
 cd Proxxxy
+
 pip install -r requirements.txt
 ```
    
