@@ -13,7 +13,7 @@ Proxxxy es un proyecto de Python que te permite verificar la funcionalidad de la
 Asegúrate de tener instaladas las siguientes dependencias para ejecutar el programa:
 
 - Python 3.6 o superior
-- Instalar los requeriments necesarios.
+- Instalar los requirements necesarios.
 
 ## Instalación
 
@@ -22,7 +22,7 @@ Asegúrate de tener instaladas las siguientes dependencias para ejecutar el prog
 
 
    git clone https://github.com/ceropuntouno/Proxxxy.git
-   pip install requeriments.txt
+   pip install -r requirements.txt
    
 ## Uso
 
